@@ -1,7 +1,7 @@
 <img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/holberton%20modif.png">
 
 ## Hi there 👋
-
+![Mathieu7483's Stats](https://github-readme-stats.vercel.app/api?username=Mathieu7483&theme=dark&show_icons=true&hide_border=false&count_private=true)
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on 
