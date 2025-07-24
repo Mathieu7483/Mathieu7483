@@ -6,12 +6,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu7483&theme=dark&show_icons=true&hide_border=false&layout=compact" width="495" height="195" alt="Langages les plus utilisés par Mathieu7483"/>
 </p>
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning
+- 🔭 I’m currently working on C language
+- 🌱 I’m currently learning C Language
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with 
 - 💬 Ask me about 
-- 📫 How to reach me: 
-- 😄 Pronouns: 
+- 📫 How to reach me: mathieu.godalier@orange.fr
+- 😄 Pronouns: "LeviOsa" and not Leviosssaaaaahhhhhh 
 - ⚡ Fun fact: 
 -->
