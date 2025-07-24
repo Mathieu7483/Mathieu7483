@@ -10,7 +10,14 @@
 - 🌱 I’m currently learning C Language
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with 
-- 💬 Ask me about 
+- 💬 Ask me about : Hey, what you want
+(oo) Baby, I got
+(oo) What you need
+(oo) Do you know I got it?
+(oo) All I'm askin'
+(oo) Is for a little respect when you come home (just a little bit) 
+  If you don't have reference](https://www.youtube.com/watch?v=6FOUqQt3Kg0)
+
 - 📫 How to reach me: mathieu.godalier@orange.fr
 - 😄 Pronouns: "LeviOsa" and not Leviosssaaaaahhhhhh 
 - ⚡ Fun fact: Space smells like raspberries and rum, according to astronauts who smelled their suits back on Earth.
