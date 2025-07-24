@@ -13,5 +13,5 @@
 - 💬 Ask me about 
 - 📫 How to reach me: mathieu.godalier@orange.fr
 - 😄 Pronouns: "LeviOsa" and not Leviosssaaaaahhhhhh 
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Space smells like raspberries and rum, according to astronauts who smelled their suits back on Earth.
 -->
