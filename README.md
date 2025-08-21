@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu7483&theme=dark&show_icons=true&hide_border=false&layout=compact" width="495" height="195" alt="Langages les plus utilisés par Mathieu7483"/>
 </p>
 
-** Language that i learn : 
+# Language that i will learn at Holberton school: 
 <div align="center">
 <img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/c-.png" width="50">
 <img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/css-3.png" width="50">
