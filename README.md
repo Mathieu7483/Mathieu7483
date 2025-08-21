@@ -1,4 +1,4 @@
-<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/Banni%C3%A8re%20GitHub%20de%20Mathieu%20Godalier.png">
+<img src="https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/neonglowpulsating-ezgif.com-speed.gif" width="1000">
 
 ## Hi there 👋
 <p align="center">
