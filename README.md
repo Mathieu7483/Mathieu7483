@@ -6,7 +6,17 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu7483&theme=dark&show_icons=true&hide_border=false&layout=compact" width="495" height="195" alt="Langages les plus utilisés par Mathieu7483"/>
 </p>
 
-- 🔭 I’m currently working on C language
+** Language that i learn : 
+<div align="center">
+<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/c-.png" width="50">
+<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/css-3.png" width="50">
+<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/html.png" width="50">
+<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/python.png" width="50">
+  <img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/javascript.png" width="50">
+<img src= "https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/serveur-sql.png" width="50">
+</div>
+
+- 🔭 I’m currently working on C language 
 - 🌱 I’m currently learning C Language
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with 
