@@ -18,8 +18,8 @@
 ---
 
 ## 🧩 À propos de moi
-- 🔭 Actuellement en **C** à Holberton School  
-- 🌱 Prochainement : **Python, CSS, HTML, SQL, JavaScript**  
+- 🔭 Actuellement en **Python** à Holberton School  
+- 🌱 Prochainement : **CSS, HTML, SQL, JavaScript**  
 - 📸 Passionné aussi de **photographie** et de **création visuelle**  
 - ⚡ Fun fact : *L’espace sent le **framboise et le rhum*** 🍇🥃  
 - 😄 Pronoms : "LeviOsa" 🪄 (et pas Leviosssaaaaahhhhhh 😅)  
