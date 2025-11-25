@@ -33,7 +33,7 @@
   <img src="https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/css-3.png" width="50" alt="CSS"/>
   <img src="https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/html.png" width="50" alt="HTML"/>
   <img src="https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/javascript.png" width="50" alt="JavaScript"/>
-  <img src="https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/serveur-sql.png" width="50" alt="SQL"/>
+  <img src="https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/sql-server_17266017.png" width="50" alt="SQL"/>
 </div>
 
 ---
