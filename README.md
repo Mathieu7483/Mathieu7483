@@ -5,7 +5,9 @@
 ---
 
 <h1 align="center">⚡ Mathieu GODALIER ⚡</h1>
-<h3 align="center">💻 Créateur d'expériences digitales sur mesure 💡</h3>
+<p align="center">
+  <img src="https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/Logo%20Mathieu%20GODALIER%20Web2.png" width="600" alt="Logo et slogan"/>
+</p>
 
 ---
 
@@ -18,8 +20,8 @@
 ---
 
 ## 🧩 À propos de moi
-- 🔭 Actuellement en **Python** à Holberton School  
-- 🌱 Prochainement : **CSS, HTML, SQL, JavaScript**  
+- 🔭 Actuellement en **Python, JavaScript, CSS, HTML, SQL** à Holberton School  
+- 🌱 Prochainement : **Chart.js**  
 - 📸 Passionné aussi de **photographie** et de **création visuelle**  
 - ⚡ Fun fact : *L’espace sent la **framboise et le rhum*** 🍇🥃  
 - 😄 Pronoms : "LeviOsa" 🪄 (et pas Leviosssaaaaahhhhhh 😅)  
@@ -40,8 +42,8 @@
 
 ## 📊 Stats GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathieu7483&show_icons=true&count_private=true&hide_border=true&title_color=6da5f2&text_color=dc42c4&icon_color=6da5f2&bg_color=000000" width="495" height="195" alt="Stats GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu7483&layout=compact&hide_border=true&title_color=6da5f2&text_color=dc42c4&bg_color=000000" width="495" height="195" alt="Langages les plus utilisés"/>
+![GitHub Stats](https://github-stats-mathieu.vercel.app/api?username=Mathieu7483&show_icons=true&count_private=true&hide_border=true&title_color=6da5f2&text_color=dc42c4&icon_color=6da5f2&bg_color=000000)
+![Top Languages](https://github-stats-mathieu.vercel.app/api/top-langs/?username=Mathieu7483&layout=compact&hide_border=true&title_color=6da5f2&text_color=dc42c4&bg_color=000000)
 </p>
 
 <p align="center">
