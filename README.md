@@ -4,13 +4,6 @@
 
 ---
 
-<h1 align="center">⚡ Mathieu GODALIER ⚡</h1>
-<p align="center">
-  <img src="https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/Logo%20Mathieu%20GODALIER%20Web2.png" width="600" alt="Logo et slogan"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-Profile-6da5f2?logo=github&style=for-the-badge&logoColor=000000" />
   <img src="https://img.shields.io/badge/Open%20Source-Projects-dc42c4?style=for-the-badge&logo=opensourceinitiative&logoColor=000000" />
