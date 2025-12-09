@@ -42,9 +42,10 @@
 
 ## 📊 Stats GitHub
 <p align="center">
-![GitHub Stats](https://github-stats-mathieu.vercel.app/api?username=Mathieu7483&show_icons=true&count_private=true&hide_border=true&title_color=6da5f2&text_color=dc42c4&icon_color=6da5f2&bg_color=000000)
-![Top Languages](https://github-stats-mathieu.vercel.app/api/top-langs/?username=Mathieu7483&layout=compact&hide_border=true&title_color=6da5f2&text_color=dc42c4&bg_color=000000)
+  <img src="https://github-readme-stats.vercel.app/api?username=Mathieu7483&show_icons=true&count_private=true&hide_border=true&title_color=6da5f2&text_color=dc42c4&icon_color=6da5f2&bg_color=000000" width="495" height="195" alt="Stats GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathieu7483&layout=compact&hide_border=true&title_color=6da5f2&text_color=dc42c4&bg_color=000000" width="495" height="195" alt="Langages les plus utilisés"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mathieu7483&hide_border=true&background=000000&ring=6da5f2&fire=dc42c4&currStreakLabel=6da5f2&sideNums=dc42c4&currStreakNum=6da5f2&sideLabels=6da5f2&dates=dc42c4" width="700" alt="GitHub Streak"/>
