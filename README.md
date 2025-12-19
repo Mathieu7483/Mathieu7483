@@ -17,7 +17,6 @@
 - 🌱 Prochainement : **Chart.js**  
 - 📸 Passionné aussi de **photographie** et de **création visuelle**  
 - ⚡ Fun fact : *L’espace sent la **framboise et le rhum*** 🍇🥃  
-- 😄 Pronoms : "LeviOsa" 🪄 (et pas Leviosssaaaaahhhhhh 😅)  
 
 ---
 
