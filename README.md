@@ -13,7 +13,7 @@
 ---
 
 ## 🧩 À propos de moi
-- 🔭 Actuellement en **Python, JavaScript, CSS, HTML, SQL** à Holberton School  
+- 🔭 Actuellement en **Python, JavaScript, CSS, HTML, SQL, Node.JS** à Holberton School  
 - 🌱 Prochainement : **Chart.js**  
 - 📸 Passionné aussi de **photographie** et de **création visuelle**  
 - ⚡ Fun fact : *L’espace sent la **framboise et le rhum*** 🍇🥃  
