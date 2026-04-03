@@ -13,8 +13,8 @@
 ---
 
 ## 🧩 À propos de moi
-- 🔭 Actuellement en **Python, JavaScript, CSS, HTML, SQL, Node.JS** à Holberton School  
-- 🌱 Prochainement : **Machine Learning**  
+- 🔭 Actuellement en **Spécialisation Machine Learning** à Holberton School  
+- 🌱 Prochainement : **Numpy, Pandas, Tensorflow**  
 - 📸 Passionné aussi de **photographie** et de **création visuelle**  
 - ⚡ Fun fact : *L’espace sent la **framboise et le rhum*** 🍇🥃  
 
