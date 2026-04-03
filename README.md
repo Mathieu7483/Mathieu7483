@@ -80,6 +80,5 @@
 <p align="center">
   <a href="mailto:mathieu.godalier@orange.fr"><img src="https://img.shields.io/badge/Email-6da5f2?style=for-the-badge&logo=gmail&logoColor=000000" /></a>
   <a href="https://www.linkedin.com/in/mathieu-godalier-93031729a/"><img src="https://img.shields.io/badge/LinkedIn-dc42c4?style=for-the-badge&logo=linkedin&logoColor=000000" /></a>
-  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-  
+  <img src="https://img.shields.io/badge/Discord-keneda7483-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
