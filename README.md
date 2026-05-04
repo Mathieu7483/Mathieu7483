@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/neonglowpulsating-ezgif.com-speed.gif" width="1000" alt="Neon GitHub Banner"/>
-</p>
+<div align="center">
+
+[![Neon GitHub Banner](https://github.com/Mathieu7483/Aiko78-Photgraphy/raw/main/img/neonglowpulsating-ezgif.com-speed.gif)](https://github.com/Mathieu7483/Aiko78-Photgraphy/blob/main/img/neonglowpulsating-ezgif.com-speed.gif)
+
 ---
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-6da5f2?logo=github&style=for-the-badge&logoColor=000000)](https://github.com/Mathieu7483)
@@ -26,16 +27,19 @@ Développeur en formation intensive à **Holberton School**, je construis mes co
 
 En dehors du code, je suis aussi photographe sous le pseudo **Aiko78**, passionné par la lumière, la composition et la création visuelle. Cette double sensibilité technique et artistique nourrit ma façon de concevoir des interfaces et des projets.
 
-- 🔭 Actuellement en **Spécialisation Machine Learning** à Holberton School
-- 🌱 Prochainement :
-  [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org)
-  [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-  [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-  [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://tensorflow.org)
-  [![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)](https://virtualbox.org)
-  [![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)](https://vagrantup.com)
-- 📸 Passionné aussi de **photographie** et de **création visuelle**
-- ⚡ Fun fact : *L'espace sent la **framboise et le rhum*** 🍇🥃
+🔭 Actuellement en **Spécialisation Machine Learning** à Holberton School
+
+🌱 Prochainement :
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://tensorflow.org)
+[![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)](https://virtualbox.org)
+[![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)](https://vagrantup.com)
+
+📸 Passionné aussi de **photographie** et de **création visuelle**
+
+⚡ Fun fact : *L'espace sent la **framboise et le rhum*** 🍇🥃
 
 ---
 
@@ -55,8 +59,8 @@ En dehors du code, je suis aussi photographe sous le pseudo **Aiko78**, passionn
 
 | Période | École | Spécialisation |
 |---------|-------|---------------|
-| 06/2025 - 03/2026 | **Holberton School** | Développement Full Stack |
-| 03/2026 - En cours | **Holberton School** | Spécialisation Machine Learning |
+| 06/2025 - 03/2026 | **Holberton School THONON** | Développement Full Stack Fondamentaux|
+| 03/2026 - 01-2027 | **Holberton School THONON** | Spécialisation Machine Learning |
 
 ---
 
@@ -121,3 +125,5 @@ En dehors du code, je suis aussi photographe sous le pseudo **Aiko78**, passionn
 ---
 
 *Merci de visiter mon profil — n'hésite pas à explorer mes repos et à me contacter pour collaborer !* 🚀
+
+</div>
