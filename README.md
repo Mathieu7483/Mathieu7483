@@ -43,15 +43,17 @@ En dehors du code, je suis aussi photographe sous le pseudo **Aiko78**, passionn
 
 ---
 
-## 🚀 Projets mis en avant
+### 🚀 Projets mis en avant
 
 | Projet | Description | Technologies |
-|--------|-------------|-------------|
-| [🐚 Simple Shell](https://github.com/Mathieu7483/holbertonschool-simple_shell) | Implémentation from scratch d'un shell Unix minimaliste en C — gestion des processus, parsing, redirections | C, Unix, Processes |
-| [📸 Aiko78 Photography](https://github.com/Mathieu7483/Aiko78-Photgraphy) | Site vitrine de photographie — design immersif avec effets néon, galerie dynamique | HTML, CSS |
-| [🎓 IBM Certificates](https://github.com/Mathieu7483/holbertonschool-france-certificates-ibm) | Parcours de certifications IBM réalisé dans le cadre de Holberton School France | IBM, Cloud |
-| [⚙️ Low Level Programming](https://github.com/Mathieu7483/holbertonschool-low_level_programming) | Exploration du bas niveau : pointeurs, mémoire, structures, algorithmes en C | C |
-| [🐧 Shell Scripting](https://github.com/Mathieu7483/holbertonschool-shell) | Scripts Bash avancés : navigation, permissions, redirections, variables | Bash |
+| --- | --- | --- |
+| [🤖 JARVIS](https://github.com/Mathieu7483/JARVIS) | Assistant virtuel vocal local intégrant reconnaissance et synthèse vocales avancées avec LLM | Python, Ollama, Whisper, Flask, SocketIO |
+| [💊 Dashboard Pharma](https://github.com/Mathieu7483/Dashboard-Pharma) | Application de gestion d'officine (stocks, planning, annuaires) intégrant le chatbot *Caducée* | Python, JS Vanilla, HTML/CSS, SpaCy, NLTK |
+| [🤖 Machine Learning](https://github.com/Mathieu7483/holbertonschool-machine_learning) | Repositoire d'apprentissage à Holberton School : fondations mathématiques, apprentissage supervisé et non supervisé | Python, Machine Learning, Mathématiques |
+| [🐚 Simple Shell](https://github.com/Mathieu7483/holbertonschool-simple_shell) | Implémentation *from scratch* d'un shell Unix minimaliste en C — gestion des processus, parsing, redirections | C, Unix, Processes |
+| [⚙️ Low Level Programming](https://github.com/Mathieu7483/holbertonschool-low_level_programming) | Exploration du bas niveau : pointeurs, gestion mémoire, structures de données et algorithmes en C | C |
+| [📸 Aiko78 Photography](https://github.com/Mathieu7483/aiko78-photography) | Site vitrine de photographie — galerie dynamique et interface moderne | HTML, CSS, JavaScript, Python |
+
 
 ---
 
