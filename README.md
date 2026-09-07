@@ -29,7 +29,7 @@ En dehors du code, je suis aussi photographe sous le pseudo **Aiko78**, passionn
 
 🔭 Actuellement en **Spécialisation Machine Learning** à Holberton School
 
-🌱 Prochainement :
+🌱 En cours d'apprentissage :
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org)
 [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
@@ -37,9 +37,9 @@ En dehors du code, je suis aussi photographe sous le pseudo **Aiko78**, passionn
 [![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)](https://virtualbox.org)
 [![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)](https://vagrantup.com)
 
-📸 Passionné aussi de **photographie** et de **création visuelle**
+📸 Passionné aussi de **2 roues, moto et vélo**, de **conception 3D** et de **création visuelle**
 
-⚡ Fun fact : *L'espace sent la **framboise et le rhum*** 🍇🥃
+⚡ Fun fact : *L'espace sent la **framboise et le rhum** 🍇🥃
 
 ---
 
