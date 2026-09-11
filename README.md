@@ -41,6 +41,20 @@ En dehors du code, je suis aussi photographe sous le pseudo **Aiko78**, passionn
 
 ⚡ Fun fact : *L'espace sent la **framboise et le rhum** 🍇🥃
 
+
+---
+### Liens vers mon site personnel
+<p align="center">
+  <a href="https://mathieu7483.github.io/Resume/index.html">
+    <img src="https://img.shields.io/badge/Website-Portfolio-a8825c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://mathieu7483.github.io/Resume/projects.html">
+    <img src="https://img.shields.io/badge/Projets-Réalisations-1a1a1a?style=for-the-badge&logo=github&logoColor=white" alt="Projets" />
+  </a>
+  <a href="https://mathieu7483.github.io/Resume/resume.html">
+    <img src="https://img.shields.io/badge/CV-Télécharger_PDF-6b6b68?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" />
+  </a>
+</p>
 ---
 
 ### 🚀 Projets mis en avant
