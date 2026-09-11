@@ -55,6 +55,7 @@ En dehors du code, je suis aussi photographe sous le pseudo **Aiko78**, passionn
     <img src="https://img.shields.io/badge/CV-Télécharger_PDF-6b6b68?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" />
   </a>
 </p>
+
 ---
 
 ### 🚀 Projets mis en avant
