@@ -16,7 +16,7 @@
 ### 💻 Développeur Full Stack | 📸 Photographe passionné [Lien vers ma page photographe](https://mathieu7483.github.io/aiko78-photography/)
 
 ---
-### Liens vers mon site personnel
+### Liens vers mon site personnel et liens de contact
 <p align="center">
   <a href="https://mathieu7483.github.io/Resume/index.html">
     <img src="https://img.shields.io/badge/Website-Portfolio-a8825c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
