@@ -76,7 +76,7 @@ En dehors du code, je suis aussi photographe sous le pseudo **Aiko78**, passionn
 | Période | École | Spécialisation |
 |---------|-------|---------------|
 | 06/2025 - 03/2026 | **Holberton School THONON** | Développement Full Stack Fondamentaux|
-| 03/2026 - 01-2027 | **Holberton School THONON** | Spécialisation Machine Learning |
+| 03/2026 - 01/2027 | **Holberton School THONON** | Spécialisation Machine Learning |
 
 ---
 
