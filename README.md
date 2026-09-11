@@ -13,7 +13,21 @@
 # Mathieu Godalier — Mathieu7483
 
 ### 🎓 Étudiant en spécialisation Machine Learning @ Holberton School
-### 💻 Développeur Full Stack | 📸 Photographe passionné [Lien vers ma page](https://mathieu7483.github.io/aiko78-photography/)
+### 💻 Développeur Full Stack | 📸 Photographe passionné [Lien vers ma page photographe](https://mathieu7483.github.io/aiko78-photography/)
+
+---
+### Liens vers mon site personnel
+<p align="center">
+  <a href="https://mathieu7483.github.io/Resume/index.html">
+    <img src="https://img.shields.io/badge/Website-Portfolio-a8825c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://mathieu7483.github.io/Resume/projects.html">
+    <img src="https://img.shields.io/badge/Projets-Réalisations-1a1a1a?style=for-the-badge&logo=github&logoColor=white" alt="Projets" />
+  </a>
+  <a href="https://mathieu7483.github.io/Resume/resume.html">
+    <img src="https://img.shields.io/badge/CV-Télécharger_PDF-6b6b68?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" />
+  </a>
+</p>
 
 [![Email](https://img.shields.io/badge/Email-6da5f2?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:mathieu.godalier@orange.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dc42c4?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/mathieu-godalier-93031729a/)
@@ -40,21 +54,6 @@ En dehors du code, je suis aussi photographe sous le pseudo **Aiko78**, passionn
 📸 Passionné aussi de **2 roues, moto et vélo**, de **conception 3D** et de **création visuelle**
 
 ⚡ Fun fact : *L'espace sent la **framboise et le rhum** 🍇🥃
-
-
----
-### Liens vers mon site personnel
-<p align="center">
-  <a href="https://mathieu7483.github.io/Resume/index.html">
-    <img src="https://img.shields.io/badge/Website-Portfolio-a8825c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://mathieu7483.github.io/Resume/projects.html">
-    <img src="https://img.shields.io/badge/Projets-Réalisations-1a1a1a?style=for-the-badge&logo=github&logoColor=white" alt="Projets" />
-  </a>
-  <a href="https://mathieu7483.github.io/Resume/resume.html">
-    <img src="https://img.shields.io/badge/CV-Télécharger_PDF-6b6b68?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" />
-  </a>
-</p>
 
 ---
 
